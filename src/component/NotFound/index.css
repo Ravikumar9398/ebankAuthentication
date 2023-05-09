@@ -1,0 +1,11 @@
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-top: 62px;
+}
+
+.not_img {
+  height: 352px;
+}
